@@ -85,6 +85,9 @@ GlobalExceptionHandler
 ResourceNotFoundException
 ---
 
+# Swagger details
+
+
 # Running the Project
 
 Clone the repository:

@@ -89,7 +89,7 @@ ResourceNotFoundException
 
 The API is documented using **Swagger UI**.
 
-![Swagger UI](docs/swagger-ui.png)
+![Swagger UI](docs/Swagger.png)
 
 # Running the Project
 

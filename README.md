@@ -87,6 +87,9 @@ ResourceNotFoundException
 
 # Swagger details
 
+The API is documented using **Swagger UI**.
+
+![Swagger UI](docs/swagger-ui.png)
 
 # Running the Project
 

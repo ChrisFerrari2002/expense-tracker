@@ -42,50 +42,6 @@ This project demonstrates the development of a **clean and well-structured backe
 # Architecture
 
 The application follows a **layered architecture**:
-# Expense Tracker API
-
-![Java](https://img.shields.io/badge/Java-21-blue)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-3.x-green)
-![Maven](https://img.shields.io/badge/Maven-Build-red)
-![License](https://img.shields.io/badge/License-MIT-yellow)
-
-A REST API built with **Spring Boot** for managing personal expenses.
-
-This project demonstrates the development of a **clean and well-structured backend API**, including validation, exception handling, filtering, and documentation with Swagger.
-
----
-
-# Features
-
-- Create, update and delete expenses
-- Retrieve expenses by ID
-- Filter expenses by category
-- Filter expenses by month
-- Calculate monthly expense summary
-- Input validation using Bean Validation
-- Global exception handling
-- Interactive API documentation with Swagger
-- In-memory database with H2
-
----
-
-# Tech Stack
-
-- **Java 21**
-- **Spring Boot**
-- **Spring Web**
-- **Spring Data JPA**
-- **H2 Database**
-- **Bean Validation**
-- **Lombok**
-- **Swagger / OpenAPI**
-- **Maven**
-
----
-
-# Architecture
-
-The application follows a **layered architecture**:
 Client
 ↓
 Controller
